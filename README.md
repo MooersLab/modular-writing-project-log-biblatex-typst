@@ -1,6 +1,8 @@
 ![Version](https://img.shields.io/static/v1?label=modular-writing-project-log-org-mode-biblatex&message=0.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+A nice introduction to Typst in October 2024 by Dr. Chase Brown of the University of Central Florida is found [here](https://mediasite.ouhsc.edu/Mediasite/Channel/python/browse/null/most-recent/null/0/null).
+
 
 ## Template for the modular form of the writing project log file in Typst for use with BibLaTeX
 
